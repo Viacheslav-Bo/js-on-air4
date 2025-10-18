@@ -1,1 +1,1 @@
-# js-on-air3
+# goit-js-hw-03
